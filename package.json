@@ -1,0 +1,25 @@
+{
+  "name": "kaguya.js",
+  "version": "1.0.0",
+  "description": "Clinet API for Kaguya Kernel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/star-inc/kaguya_api-javascript.git"
+  },
+  "keywords": [
+    "kaguya",
+    "kernel",
+    "api",
+    "client"
+  ],
+  "author": "Star Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/star-inc/kaguya_api-javascript/issues"
+  },
+  "homepage": "https://github.com/star-inc/kaguya_api-javascript#readme"
+}
