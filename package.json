@@ -1,7 +1,7 @@
 {
   "name": "kaguya.js",
   "version": "1.0.0",
-  "description": "Client API for Kaguya Kernel",
+  "description": "Kaguya Kernel Client API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,11 +13,11 @@
   "keywords": [
     "kaguya",
     "kernel",
-    "api",
-    "client"
+    "client",
+    "api"
   ],
   "author": "Star Inc.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/star-inc/kaguya.js/issues"
   },
